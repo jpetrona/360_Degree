@@ -3,174 +3,174 @@
 
     <item
         is-multidex="true"
-        jar="F:\Source Codes\Source Code\Bought\360\game\android\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jar="F:\MyWork\360_Degree\android\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="false"
-        revision="24.0.0"
-        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
-        <dex dex="F:\Source Codes\Source Code\Bought\360\game\android\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_71236cac3dc1162b0c67251e0ebd4d571d59f8a0\classes.dex" />
+        revision="23.0.2"
+        sha1="900463a5202e0dcdaf20886e279a4fa8c5bbdb21">
+        <dex dex="F:\MyWork\360_Degree\android\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_e138cdc6065add2dd882efde40ccfc1ed9bf17a3\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="F:\Source Codes\Source Code\Bought\360\game\android\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jar="F:\MyWork\360_Degree\libs\tween-engine-api.jar"
         jumboMode="true"
         optimize="false"
-        revision="24.0.0"
-        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
-        <dex dex="F:\Source Codes\Source Code\Bought\360\game\android\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.0_64ce8d2ee340b1a862429550a6d696bbff0f8672\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\Source Codes\Source Code\Bought\360\game\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
-        <dex dex="F:\Source Codes\Source Code\Bought\360\game\android\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.1.0_5cfd4a2e618566b708ff7680a122f6b432984f4a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\Source Codes\Source Code\Bought\360\game\android\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
-        <dex dex="F:\Source Codes\Source Code\Bought\360\game\android\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.2.0_560c402428e8eb0616108b137bf27a968f44b059\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Ali\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
-        <dex dex="F:\Source Codes\Source Code\Bought\360\game\android\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.0_f921c5e4e8d23b78971292dde7644bbd8501071b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\Source Codes\Source Code\Bought\360\game\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
-        <dex dex="F:\Source Codes\Source Code\Bought\360\game\android\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.1.0_3fe9c6c2fa055f6d90728a8fe8373d3406118bf0\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\Source Codes\Source Code\Bought\360\game\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
-        <dex dex="F:\Source Codes\Source Code\Bought\360\game\android\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.1.0_58d5a25daf66c157468d1636463bd2d59843a393\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\Source Codes\Source Code\Bought\360\game\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="d61920aba361832a9545a43fa8c9453eb02f18f7">
-        <dex dex="F:\Source Codes\Source Code\Bought\360\game\android\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-8.1.0_b55deb344ad30192ab50440f7969d7a28502feb1\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\Source Codes\Source Code\Bought\360\game\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="993834cb17d07d51b92db89d2c330243592ebf77">
-        <dex dex="F:\Source Codes\Source Code\Bought\360\game\android\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-8.1.0_32d4f3934efead97b48d76b91cc3a550844116ee\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\Source Codes\Source Code\Bought\360\game\android\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="b4b42111ef4e29d3dfa228448f6e9b716ae002b5">
-        <dex dex="F:\Source Codes\Source Code\Bought\360\game\android\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_3a395cbc6a8b6e6e100158ea6bbbf183e7019896\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\Source Codes\Source Code\Bought\360\game\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="95758a2905669affbffc5ddd262921d375674fad">
-        <dex dex="F:\Source Codes\Source Code\Bought\360\game\android\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-8.1.0_291554483832f0fa33c8898ad171b9a5f9026fc8\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\Source Codes\Source Code\Bought\360\game\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="3c729e6d76a36c5dc27e6a4c4009296f49eaa88a">
-        <dex dex="F:\Source Codes\Source Code\Bought\360\game\android\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-8.1.0_c1731aeb549b666a6e918355108ffe2b88f5dab3\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\sharj\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.6.4\13ed9a042554afce8c8b38c53e9b6d6d9c10600e\gdx-1.6.4.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="13ed9a042554afce8c8b38c53e9b6d6d9c10600e">
-        <dex dex="F:\Source Codes\Source Code\Bought\360\game\android\build\intermediates\transforms\dex\debug\folders\1000\10\gdx-1.6.4_7622f7d8cc9bd247e4e0af757d8c56fe15804f2d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\sharj\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-box2d\1.6.4\eb089b58828b842bbdd4f7cb48b54626924cfdd5\gdx-box2d-1.6.4.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="eb089b58828b842bbdd4f7cb48b54626924cfdd5">
-        <dex dex="F:\Source Codes\Source Code\Bought\360\game\android\build\intermediates\transforms\dex\debug\folders\1000\10\gdx-box2d-1.6.4_5757b2a9d6e4549fd89866f7a90821c5434f47f2\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\sharj\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.6.4\d681be06ea6873f2056bbcbe091367bd9f7c23f2\gdx-backend-android-1.6.4.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="d681be06ea6873f2056bbcbe091367bd9f7c23f2">
-        <dex dex="F:\Source Codes\Source Code\Bought\360\game\android\build\intermediates\transforms\dex\debug\folders\1000\10\gdx-backend-android-1.6.4_62de186a06f6b6e4b038717d61d89c5731f3da55\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\Source Codes\Source Code\Bought\360\game\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
-        <dex dex="F:\Source Codes\Source Code\Bought\360\game\android\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-20.0.0_3e26b972587ec5cd7409a7bc8dbd26d41f9dfe73\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\Source Codes\Source Code\Bought\360\game\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="997773777cf3904c11d6764fe3b7668538220e49">
-        <dex dex="F:\Source Codes\Source Code\Bought\360\game\android\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-8.1.0_8fee4348e4d7914ce42293a18c59135ebe242109\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\Source Codes\Source Code\Bought\360\game\android\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="af2c5b47e484ca1cd9a48cd9eb8df018dad41e8f">
-        <dex dex="F:\Source Codes\Source Code\Bought\360\game\android\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_9c8bc8fa9a8916bfecdc29ccc369f2db7bcc57ed\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\Source Codes\Source Code\Bought\360\game\libs\tween-engine-api.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
+        revision="23.0.2"
         sha1="8be8beb70b7ccae059d523e56670f6e44fb1821f">
-        <dex dex="F:\Source Codes\Source Code\Bought\360\game\android\build\intermediates\transforms\dex\debug\folders\1000\2\tween-engine-api_3c3e06dd060cc35ddbba9facae525088eee67a1b\classes.dex" />
+        <dex dex="F:\MyWork\360_Degree\android\build\intermediates\transforms\dex\debug\folders\1000\2\tween-engine-api_51a539e2ee914205c1c2c4051bd3162de01983ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hpp\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.6.4\d681be06ea6873f2056bbcbe091367bd9f7c23f2\gdx-backend-android-1.6.4.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="d681be06ea6873f2056bbcbe091367bd9f7c23f2">
+        <dex dex="F:\MyWork\360_Degree\android\build\intermediates\transforms\dex\debug\folders\1000\10\gdx-backend-android-1.6.4_116aaad7266388a600ae960c364f3707b486a265\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\MyWork\360_Degree\android\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="F:\MyWork\360_Degree\android\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_b76542e584e9e03afbc1d35080f66964b1c511c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\MyWork\360_Degree\android\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="F:\MyWork\360_Degree\android\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.0_abb41ba5633df9eb699a663c8e6ffa4fc8d997e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\MyWork\360_Degree\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="F:\MyWork\360_Degree\android\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-8.1.0_1c223d90c7b977d492aee3341f50f4136ff8be01\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\MyWork\360_Degree\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="3c729e6d76a36c5dc27e6a4c4009296f49eaa88a">
+        <dex dex="F:\MyWork\360_Degree\android\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-8.1.0_29b506394741c15c291ab16fff9fef9db2ca511e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\MyWork\360_Degree\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="F:\MyWork\360_Degree\android\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.1.0_f7a00f60a301d25baba71a5fb6cae49ece33f5a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\MyWork\360_Degree\android\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="72a729651738ff450e0e65d6ef8c03165b0d318e">
+        <dex dex="F:\MyWork\360_Degree\android\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a6ce94d550e25cda37036c9fbb7d7b4e1f891322\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\MyWork\360_Degree\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="95758a2905669affbffc5ddd262921d375674fad">
+        <dex dex="F:\MyWork\360_Degree\android\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-8.1.0_974601d0e72807e4a82377bf3c145871ed96c862\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\MyWork\360_Degree\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="993834cb17d07d51b92db89d2c330243592ebf77">
+        <dex dex="F:\MyWork\360_Degree\android\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-8.1.0_09d6bffc565307288a18dc45365f570973405019\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\MyWork\360_Degree\android\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="F:\MyWork\360_Degree\android\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.2.0_d8d75af5372f6345f32fe2b56e1bc75746f83ada\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\MyWork\360_Degree\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="d61920aba361832a9545a43fa8c9453eb02f18f7">
+        <dex dex="F:\MyWork\360_Degree\android\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-8.1.0_ef7c43970e3aa31792701181ea864aa7cb814653\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\MyWork\360_Degree\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="F:\MyWork\360_Degree\android\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-20.0.0_902c672e6cb1f9d345aded138fb00accbb291df6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hpp\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-box2d\1.6.4\eb089b58828b842bbdd4f7cb48b54626924cfdd5\gdx-box2d-1.6.4.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="eb089b58828b842bbdd4f7cb48b54626924cfdd5">
+        <dex dex="F:\MyWork\360_Degree\android\build\intermediates\transforms\dex\debug\folders\1000\10\gdx-box2d-1.6.4_afe9ba6b7fcde74cd27fddc549ce61c6f673084a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="J:\Android\SDK\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="F:\MyWork\360_Degree\android\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.0_01702666b22a8a1576032954389dc5123e8a6d00\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hpp\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.6.4\13ed9a042554afce8c8b38c53e9b6d6d9c10600e\gdx-1.6.4.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="13ed9a042554afce8c8b38c53e9b6d6d9c10600e">
+        <dex dex="F:\MyWork\360_Degree\android\build\intermediates\transforms\dex\debug\folders\1000\10\gdx-1.6.4_744d922a003e02f4857bb961b0816aca9552c09f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\MyWork\360_Degree\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="F:\MyWork\360_Degree\android\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.1.0_10b2c98aeb2583105dba5edecf8c654cc3d21666\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\MyWork\360_Degree\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="F:\MyWork\360_Degree\android\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.1.0_9a6778775b38e0e55fd268ef3be7e00f6f54c55b\classes.dex" />
     </item>
 
 </items>
